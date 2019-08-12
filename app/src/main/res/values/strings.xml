@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Andi</string>
+    <string name="todo">TODO</string>
+    <string name="permission_not_granted">not granted</string>
+</resources>
